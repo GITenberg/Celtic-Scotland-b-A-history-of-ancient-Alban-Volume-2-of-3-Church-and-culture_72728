@@ -1,5 +1,8 @@
 _repo: Celtic-Scotland-b-A-history-of-ancient-Alban-Volume-2-of-3-Church-and-culture_72728
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72728-h/images/cover.jpg
 creator:
   author:
     agent_name: Skene, W. F. (William Forbes)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44620
     wikipedia: https://en.wikipedia.org/wiki/William_Forbes_Skene
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72728#Celtic-Scotland-b-A-history-of-ancient-Alban-Volume-2-of-3-Church-and-culture
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
